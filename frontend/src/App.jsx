@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>smart banking system</h1>
+      <h1>smart banking system </h1>
     </>
   )
 }
