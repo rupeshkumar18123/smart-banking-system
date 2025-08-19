@@ -1,5 +1,6 @@
 "# smart-banking-system" 
-### this project is going to be my favourite project , i willuse every knowledge whatever i know like ai/ml, blockchain , java,  springboot ,azure app services
+### still making its design
+### this project is going to be my favourite project , i will use my all effort  whatever i can do like ai/ml, blockchain , java,  springboot ,azure app services
 
 ### today i am learning springboot
 
