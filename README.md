@@ -1,7 +1,7 @@
 "# smart-banking-system" 
 ### still making its design
 ### this project is going to be my favourite project , i will use my all effort  whatever i can do like ai/ml, blockchain , java,  springboot ,azure app services
-
+### desinging part is going one
 ### today i am learning springboot
 
 ## today i created blockchain smart contract using etherum solidity
